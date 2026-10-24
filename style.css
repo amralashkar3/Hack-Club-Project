@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+    height: 350px;
+}
+h3{
+    font-size: 35px;
+    color: red;
+}
+button{
+    color: brown;
+    background-color: blue;
+}
